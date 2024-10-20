@@ -13,6 +13,7 @@ Passionate Computer Science Student
 
 ## 🛠 Skills
 - Python
+- Java
 - C Programming
 - HTML, CSS and JavaScript
 
