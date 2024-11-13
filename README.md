@@ -14,6 +14,7 @@ Passionate Computer Science Student
 ## 🛠 Skills
 - Python
 - Java
+- Flask, Django
 - C Programming
 - HTML, CSS and JavaScript
 
